@@ -4,9 +4,6 @@
 [submodule "platform"]
 	path = platform
 	url = git@github.com:xwiki/xwiki-platform.git
-[submodule "extensions"]
-	path = extensions
-	url = git@github.com:xwiki/xwiki-extensions.git
 [submodule "rendering"]
 	path = rendering
 	url = git@github.com:xwiki/xwiki-rendering.git
