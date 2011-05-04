@@ -1,15 +1,15 @@
-[submodule "commons"]
-	path = commons
+[submodule "xwiki-commons"]
+	path = xwiki-commons
 	url = git@github.com:xwiki/xwiki-commons.git
-[submodule "platform"]
-	path = platform
-	url = git@github.com:xwiki/xwiki-platform.git
-[submodule "rendering"]
-	path = rendering
+[submodule "xwiki-rendering"]
+	path = xwiki-rendering
 	url = git@github.com:xwiki/xwiki-rendering.git
-[submodule "enterprise"]
-	path = enterprise
+[submodule "xwiki-platform"]
+	path = xwiki-platform
+	url = git@github.com:xwiki/xwiki-platform.git
+[submodule "xwiki-enterprise"]
+	path = xwiki-enterprise
 	url = git@github.com:xwiki/xwiki-enterprise.git
-[submodule "manager"]
-	path = manager
+[submodule "xwiki-manager"]
+	path = xwiki-manager
 	url = git@github.com:xwiki/xwiki-manager.git
