@@ -38,10 +38,10 @@
   <packaging>pom</packaging>
   <description>Every XWiki projects in one build</description>
   <modules>
-    <module>commons</module>
-    <module>rendering</module>
-    <module>platform</module>
-    <module>enterprise</module>
-    <module>manager</module>
+    <module>xwiki-commons</module>
+    <module>xwiki-rendering</module>
+    <module>xwiki-platform</module>
+    <module>xwiki-enterprise</module>
+    <module>xwiki-manager</module>
   </modules>
 </project>
